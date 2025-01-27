@@ -34,6 +34,8 @@ The **IRCC Work-Permit Chatbot** is an AI-driven solution designed to assist use
 - **llama-index**: Building the RAG pipeline.
 - **Streamlit**: Developing the interactive user interface.
 
+## [Try it yourself](https://huggingface.co/spaces/gruhit-patel/ircc-work-permit-chat-bot)
+
 ## Demo
 [ircc_work_permit_chatbot.webm](https://github.com/user-attachments/assets/d8f2b944-31bd-494f-a811-fec4cc8ca316)
 
