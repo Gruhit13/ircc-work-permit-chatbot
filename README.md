@@ -39,6 +39,9 @@ The **IRCC Work-Permit Chatbot** is an AI-driven solution designed to assist use
 ## Demo
 [ircc_work_permit_chatbot.webm](https://github.com/user-attachments/assets/d8f2b944-31bd-494f-a811-fec4cc8ca316)
 
+## Future Work
+- Make the response generation faster
+- Increase the model accuracy.
 
 ## Disclaimer
 ⚠️ **Disclaimer**:
